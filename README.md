@@ -1,4 +1,4 @@
-# selfbot-reddom-
+# selfbot-reddom-2025
 
 > 🚨 Ce projet est un **leak volontaire** du selfbot RedDom. Après mûre réflexion, nous avons décidé de rendre cette version publique. À l’avenir, les prochaines versions seront **privées** et **accessibles uniquement via un abonnement payant**.
 
