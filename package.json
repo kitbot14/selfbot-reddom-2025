@@ -1,0 +1,43 @@
+{
+  "name": "discord-anti-selfbot-reddom",
+  "version": "1.0.0",
+  "description": "Selfbot performant, conçu pour gerer votre compte via un bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "anti-raid",
+    "moderation",
+    "security",
+    "discord.js"
+  ],
+  "author": "kitbot14",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kitbot14/selfbot-reddom-2025"
+  },
+  "bugs": {
+    "url": "https://github.com/kitbot14/selfbot-reddom-2025/issues"
+  },
+  "homepage": "https://github.com/kitbot14/selfbot-reddom-2025#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "adm-zip": "^0.5.16",
+    "axios": "^1.11.0",
+    "discord-backup": "^3.4.0",
+    "discord.js": "^14.21.0",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.1",
+    "jsdom": "^26.1.0",
+    "libsodium-wrappers": "^0.7.15",
+    "node-cron": "^4.2.1",
+    "safeness-sb-new": "^0.0.1",
+    "superagent": "^10.2.3"
+  }
+}
